@@ -15,7 +15,6 @@
   <a href="#%EF%B8%8F-tech-stack--tools">Tech Stack</a> •
   <a href="#-github-stats">GitHub Stats</a> •
   <a href="#-snake-contribution-graph">Snake Graph</a> •
-  <a href="#-connect-with-me">Connect</a>
 </p>
 
 ---
@@ -26,7 +25,6 @@
 💡 "Code is poetry, vibes are energy."
 🚀 Passions: Building fast apps, experimenting with AI tools, turning concepts into reality.
 🌱 Learning: AI Agentic Frameworks, Modern Web Design & System Architecture.
-💬 Ask me about: Quick prototypes, cool web tech, and vibe coding tips!
 ⚡ Fun Fact: I turn ideas into working software at the speed of thought.
 ```
 
@@ -90,16 +88,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/githubuser2777/githubuser2777/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/githubuser2777"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
 
 ---
 
