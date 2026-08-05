@@ -19,20 +19,18 @@ shell = ["pwsh", "zsh", "fish"]
 [profile]
 focus = ["CLI tools", "systems programming", "full-stack web", "android"]
 stack = ["Go", "Rust", "TypeScript", "Kotlin", "Python", "JavaScript", "C++"]
-```
 
----
+[tech.web]
+frameworks = ["next.js", "react", "tailwindcss", "supabase", "vite"]
 
-```bash
-$ ls -1 tech/
-```
+[tech.desktop]
+frameworks = ["tauri", "jetpack-compose", "android", "firebase"]
 
-```text
-languages/    go  typescript  rust  kotlin  python  javascript  c++
-web/          next.js  react  tailwindcss  supabase  vite
-desktop/      tauri  jetpack-compose  android  firebase
-cli-tui/      bubble-tea  aes-256-gcm  argon2id
-tools/        git  github-actions  vercel  vscode
+[tech.cli]
+libraries  = ["bubble-tea", "aes-256-gcm", "argon2id"]
+
+[tech.tools]
+items      = ["git", "github-actions", "vercel", "vscode"]
 ```
 
 ---
