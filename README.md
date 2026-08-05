@@ -1,75 +1,42 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hung_Vux;Developer+%26+Builder;Writing+code%2C+learning+things." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=00FF99&center=true&vCenter=true&width=600&lines=hung_vux%40github%3A~%24+whoami;hung_vux%40github%3A~%24+cat+README.md;hung_vux%40github%3A~%24+_" alt="terminal prompt" />
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20CLI-00ff99?style=flat-square&logo=gnubash&logoColor=black" />
-  <img src="https://img.shields.io/badge/Status-Shipping-brightgreen?style=flat-square&logo=rocket&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI%20Assisted-Yes-blueviolet?style=flat-square&logo=openai&logoColor=white" />
-</p>
 
 ---
 
-## $ whoami
+```bash
+$ whoami
+hung_vux — developer & builder
 
-```text
-Name    : Hung_Vux
-Focus   : CLI tools · Systems programming · Full-stack web · Android
-Stack   : Go (primary) · Rust · TypeScript · Kotlin · Python
-Approach: Minimal, fast, zero-bloat software. Terminal-first.
-Learning: High-performance networking · Tauri desktop · AI-integrated apps
+$ cat focus.txt
+CLI tools · systems programming · full-stack web · android
+
+$ cat stack.txt
+Go (primary) · Rust · TypeScript · Kotlin · Python · JavaScript · C++
+
+$ cat learning.txt
+high-performance networking · tauri desktop · AI-integrated apps
 ```
 
 ---
 
-## Languages & Technologies
+```bash
+$ ls -1 tech/
+```
 
-#### Core Languages
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
-
-#### Web & Fullstack
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-</p>
-
-#### Desktop & Mobile
-<p>
-  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-#### CLI / TUI / Security
-<p>
-  <img src="https://img.shields.io/badge/Bubble%20Tea-FF75B7?style=flat-square&logo=go&logoColor=white" alt="Bubble Tea" />
-  <img src="https://img.shields.io/badge/AES--256--GCM-FF4757?style=flat-square&logo=gnuprivacyguard&logoColor=white" alt="AES-256-GCM" />
-  <img src="https://img.shields.io/badge/Argon2id-E84393?style=flat-square" alt="Argon2id" />
-</p>
-
-#### Tooling
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
+```text
+languages/    go  typescript  rust  kotlin  python  javascript  c++
+web/          next.js  react  tailwindcss  supabase  vite
+desktop/      tauri  jetpack-compose  android  firebase
+cli-tui/      bubble-tea  aes-256-gcm  argon2id
+tools/        git  github-actions  vercel  vscode
+```
 
 ---
 
-## GitHub Stats
+```bash
+$ gh stats --user githubuser2777
+```
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=githubuser2777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00ff99&text_color=a9b1d6&icon_color=00ff99&bg_color=0d1117" alt="GitHub Stats" />
@@ -84,7 +51,9 @@ Learning: High-performance networking · Tauri desktop · AI-integrated apps
 
 ---
 
-## Snake Contribution Graph
+```bash
+$ git log --graph --oneline  # contribution graph
+```
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/githubuser2777/githubuser2777/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
@@ -93,6 +62,5 @@ Learning: High-performance networking · Tauri desktop · AI-integrated apps
 ---
 
 <div align="center">
-  <br/>
-  <sub>// built with curiosity &amp; too much terminal time — Hung_Vux</sub>
+  <sub>hung_vux@github:~$ ▋</sub>
 </div>
