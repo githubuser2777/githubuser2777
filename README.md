@@ -4,13 +4,14 @@
 
 ---
 
-```bash
-$ whoami
-  hung_vux — developer & builder
-
-  focus : CLI tools · systems programming · fullstack web · android
-  stack : Go · Rust · TypeScript · Kotlin · Python · JavaScript · C++
-  vibe  : terminal > GUI
+```text
+   ████ ████       /\          hung_vux @ github
+   ████ ████      /  \         ──────────────────
+   ████ ████     /\  /\        OS    : Windows 10 + Arch Linux
+               /  \/  \       shell : pwsh · zsh
+   ████ ████  /________\      focus : CLI · systems · web · android
+   ████ ████                   stack : Go · Rust · TypeScript · Kotlin · Python
+   ████ ████                   vibe  : terminal > GUI
 ```
 
 ---
