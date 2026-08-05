@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hung_Vux;Systems+%26+CLI+Engineer;Go+%7C+Rust+%7C+TypeScript+%7C+Kotlin;Building+from+terminal+to+production." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hung_Vux;Developer+%26+Builder;Writing+code%2C+learning+things." alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -66,21 +66,6 @@ Learning: High-performance networking · Tauri desktop · AI-integrated apps
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
-
----
-
-## Featured Projects
-
-| Project | Stack | Description | Status |
-|---|---|---|---|
-| [🔐 ZenSec](https://github.com/githubuser2777/ZenSec) | Go | File encryption CLI — AES-256-GCM + Argon2id, zero deps, streaming | `active` |
-| [⚡ zenflow](https://github.com/githubuser2777/zenflow) | Go | HTTP/HTTPS proxy + ad blocker, zero-alloc hot paths, real-time TUI | `active` |
-| [🌌 ZenYT](https://github.com/githubuser2777/ZenYT) | Rust · Tauri v2 · React | Lightweight YouTube desktop client — 10× lighter than Electron | `active` |
-| [🔑 password-manager-cli](https://github.com/githubuser2777/password-manager-cli) | Go | Local password manager with TUI, HaveIBeenPwned audit | `active` |
-| [🎬 ASCII\_Zen](https://github.com/githubuser2777/ASCII_Zen) | Go · Python | Real-time ASCII video player in the terminal, powered by Bubble Tea | `active` |
-| [📱 SocEnrMtr](https://github.com/githubuser2777/SocEnrMtr) | Kotlin · Compose | Android social battery tracker — Room, DataStore, Firebase | `active` |
-| [⚖️ LegalLens ZenAI](https://github.com/githubuser2777/LegalLens_ZenAI) | Next.js · Supabase · AI | AI legal document analyzer — 10-week solo SE project | `archived` |
-| 🎞️ *(private)* | JavaScript | Cinema/streaming system — dropped, not enough ideas | `archived` |
 
 ---
 
