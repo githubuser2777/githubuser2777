@@ -9,12 +9,12 @@
 
 [user]
 name  = "hung_vux"
-role  = "developer & builder"
-vibe  = "terminal > GUI"
+role  = "developer & builder & viber"
+vibe  = "terminal >= GUI"
 
 [environment]
-os    = ["Windows 10", "Arch Linux"]
-shell = ["pwsh", "zsh"]
+os    = ["Windows 11", "Fedora Linux"]
+shell = ["pwsh", "zsh", "fish"]
 
 [profile]
 focus = ["CLI tools", "systems programming", "full-stack web", "android"]
