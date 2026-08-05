@@ -6,14 +6,17 @@
 
 ```bash
 $ whoami
-hung_vux — developer & builder
-
+hung_vux — developer & builder & viber
+```
+```bash
 $ cat focus.txt
 CLI tools · systems programming · full-stack web · android
-
+```
+```bash
 $ cat stack.txt
 Go (primary) · Rust · TypeScript · Kotlin · Python · JavaScript · C++
-
+```
+```bash
 $ cat learning.txt
 high-performance networking · tauri desktop · AI-integrated apps
 ```
