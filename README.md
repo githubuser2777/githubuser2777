@@ -47,7 +47,7 @@ $ gh stats --user githubuser2777
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-theta-azure.vercel.app/?user=githubuser2777&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff99&ring=00ff99&fire=00ff99&dates=a9b1d6" alt="Streak Stats" />
+  <img src="./profile/streak.svg" alt="Streak Stats" />
 </div>
 
 ---
