@@ -39,14 +39,14 @@ $ gh stats --user githubuser2777
 ```
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=githubuser2777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00ff99&text_color=a9b1d6&icon_color=00ff99&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubuser2777&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff99&text_color=a9b1d6&bg_color=0d1117" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=githubuser2777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00ff99&text_color=a9b1d6&icon_color=00ff99&bg_color=0d1117&cache_seconds=3600" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubuser2777&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff99&text_color=a9b1d6&bg_color=0d1117&cache_seconds=3600" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=githubuser2777&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff99&ring=00ff99&fire=00ff99" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=githubuser2777&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff99&ring=00ff99&fire=00ff99&dates=a9b1d6" alt="Streak Stats" />
 </div>
 
 ---
