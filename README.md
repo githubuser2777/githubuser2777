@@ -44,6 +44,12 @@ $ gh stats --user githubuser2777
   <img height="160" src="https://github-readme-stats-three-beryl-52.vercel.app/api/top-langs/?username=githubuser2777&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff99&text_color=a9b1d6&bg_color=0d1117" alt="Top Languages" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-theta-azure.vercel.app/?user=githubuser2777&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff99&ring=00ff99&fire=00ff99&dates=a9b1d6" alt="Streak Stats" />
+</div>
+
 ---
 
 ```bash
