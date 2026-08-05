@@ -1,17 +1,24 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=00FF99&center=true&vCenter=true&width=600&lines=hung_vux%40github%3A~%24+whoami;hung_vux%40github%3A~%24+cat+README.md;hung_vux%40github%3A~%24+_" alt="terminal prompt" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=00FF99&center=true&vCenter=true&width=600&lines=hung_vux%40github%3A~%24+cat+~%2F.config%2Fhung_vux.toml;hung_vux%40github%3A~%24+_" alt="terminal prompt" />
 </div>
 
 ---
 
-```text
-   ████ ████       /\          hung_vux @ github
-   ████ ████      /  \         ──────────────────
-   ████ ████     /\  /\        OS    : Windows 10 + Arch Linux
-               /  \/  \       shell : pwsh · zsh
-   ████ ████  /________\      focus : CLI · systems · web · android
-   ████ ████                   stack : Go · Rust · TypeScript · Kotlin · Python
-   ████ ████                   vibe  : terminal > GUI
+```toml
+# ~/.config/hung_vux.toml
+
+[user]
+name  = "hung_vux"
+role  = "developer & builder"
+vibe  = "terminal > GUI"
+
+[environment]
+os    = ["Windows 10", "Arch Linux"]
+shell = ["pwsh", "zsh"]
+
+[profile]
+focus = ["CLI tools", "systems programming", "full-stack web", "android"]
+stack = ["Go", "Rust", "TypeScript", "Kotlin", "Python", "JavaScript", "C++"]
 ```
 
 ---
