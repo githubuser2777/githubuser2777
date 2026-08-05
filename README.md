@@ -6,19 +6,11 @@
 
 ```bash
 $ whoami
-hung_vux — developer & builder & viber
-```
-```bash
-$ cat focus.txt
-CLI tools · systems programming · full-stack web · android
-```
-```bash
-$ cat stack.txt
-Go (primary) · Rust · TypeScript · Kotlin · Python · JavaScript · C++
-```
-```bash
-$ cat learning.txt
-high-performance networking · tauri desktop · AI-integrated apps
+  hung_vux — developer & builder
+
+  focus : CLI tools · systems programming · fullstack web · android
+  stack : Go · Rust · TypeScript · Kotlin · Python · JavaScript · C++
+  vibe  : terminal > GUI
 ```
 
 ---
@@ -44,12 +36,6 @@ $ gh stats --user githubuser2777
 <div align="center">
   <img height="160" src="https://github-readme-stats-three-beryl-52.vercel.app/api?username=githubuser2777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00ff99&text_color=a9b1d6&icon_color=00ff99&bg_color=0d1117" alt="GitHub Stats" />
   <img height="160" src="https://github-readme-stats-three-beryl-52.vercel.app/api/top-langs/?username=githubuser2777&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff99&text_color=a9b1d6&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=githubuser2777&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff99&ring=00ff99&fire=00ff99&dates=a9b1d6" alt="Streak Stats" />
 </div>
 
 ---
